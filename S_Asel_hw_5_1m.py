@@ -1,4 +1,3 @@
-
 movies = {}
 
 def add_movies(name):

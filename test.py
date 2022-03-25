@@ -65,4 +65,3 @@ while True:
     elif command == '0':
         print('Program stopped')
         break
-
